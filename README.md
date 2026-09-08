@@ -5,3 +5,6 @@ Author - Sukriti Ghosh
 <br>
 I am a student.
 I am a cse student of DURGAPUR INSTITUTION OF ADVANCE TECHNOLOGY AMD MANAGEMENT
+DIATM'30
+LEARNING PYTHON,C....
+
